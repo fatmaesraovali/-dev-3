@@ -1,0 +1,9 @@
+body {background-color: #ffe4c4;}
+h1 { color:rgb(97, 43, 43); }
+
+.informations{
+    display:flex;
+    width: 100%;
+    flex-direction: row-reverse;
+    justify-content: center; 
+}
